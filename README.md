@@ -1,2 +1,2 @@
 # Horiseon Marketing
-![alt text](../assets/images/screen.shot.horiseon.png)
+![screen shot](screen.shot.horiseon.png)
